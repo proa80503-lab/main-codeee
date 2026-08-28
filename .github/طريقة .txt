@@ -1,0 +1,2 @@
+امر التشغيل 
+.\gradlew.bat runClient
