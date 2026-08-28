@@ -1,0 +1,13 @@
+{
+  "itemGroup.avatarelements": "Avatar Elements Tab",
+  "block.avatarelements.avatar_block": "Example Block",
+  "item.avatarelements.avatar_item": "Example Item",
+
+  "avatarelements.configuration.title": "Avatar Elements Configs",
+  "avatarelements.configuration.section.avatarelements.common.toml": "Avatar Elements Configs",
+  "avatarelements.configuration.section.avatarelements.common.toml.title": "Avatar Elements Configs",
+  "avatarelements.configuration.items": "Item List",
+  "avatarelements.configuration.logDirtBlock": "Log Dirt Block",
+  "avatarelements.configuration.magicNumberIntroduction": "Magic Number Text",
+  "avatarelements.configuration.magicNumber": "Magic Number"
+}
